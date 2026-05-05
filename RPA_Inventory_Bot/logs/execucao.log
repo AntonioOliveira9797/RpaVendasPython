@@ -1,0 +1,7 @@
+[2026-05-05 14:15:33] Iniciando Robô de Reposição de Estoque...
+[2026-05-05 14:15:34] Dados carregados com sucesso.
+[2026-05-05 14:15:34] Análise concluída. Média: 17.13 | Segurança: 120
+[2026-05-05 14:15:34] Processo finalizado. Relatório Pedido_Compra_20260505_1415.csv gerado.
+[2026-05-05 14:21:15] Iniciando Robô de Reposição de Estoque...
+[2026-05-05 14:21:15] Dados carregados com sucesso.
+[2026-05-05 14:21:15] ERRO CRÍTICO NA EXECUÇÃO: 'store'

@@ -1,0 +1,163 @@
+store_name,product_name,quantity,estoque_seguranca,qtd_a_comprar,status
+City Fresh Store,Apples,3.2,9.6,4.6,COMPRA NECESSÁRIA
+City Fresh Store,Bananas,2.62,7.86,2.86,COMPRA NECESSÁRIA
+City Fresh Store,Bread,3.11,9.33,4.33,COMPRA NECESSÁRIA
+City Fresh Store,Carrots,2.1,6.3,1.3,COMPRA NECESSÁRIA
+City Fresh Store,Cereal,3.28,9.84,4.84,COMPRA NECESSÁRIA
+City Fresh Store,Cheese,2.78,8.34,3.34,COMPRA NECESSÁRIA
+City Fresh Store,Chicken Breast,2.29,6.87,1.87,COMPRA NECESSÁRIA
+City Fresh Store,Eggs,3.1,9.3,4.3,COMPRA NECESSÁRIA
+City Fresh Store,Ground Beef,2.6,7.8,2.8,COMPRA NECESSÁRIA
+City Fresh Store,Milk,3.67,11.01,6.01,COMPRA NECESSÁRIA
+City Fresh Store,Onions,2.57,7.71,2.71,COMPRA NECESSÁRIA
+City Fresh Store,Orange Juice,2.56,7.68,2.68,COMPRA NECESSÁRIA
+City Fresh Store,Pasta,3.25,9.75,4.75,COMPRA NECESSÁRIA
+City Fresh Store,Potatoes,2.73,8.19,3.19,COMPRA NECESSÁRIA
+City Fresh Store,Rice,3.19,9.57,4.57,COMPRA NECESSÁRIA
+City Fresh Store,Salmon,3.12,9.36,4.36,COMPRA NECESSÁRIA
+City Fresh Store,Tomatoes,2.38,7.14,2.14,COMPRA NECESSÁRIA
+City Fresh Store,Yogurt,3.77,11.31,6.31,COMPRA NECESSÁRIA
+Corner Grocery,Apples,3.0,9.0,4.0,COMPRA NECESSÁRIA
+Corner Grocery,Bananas,3.68,11.04,6.04,COMPRA NECESSÁRIA
+Corner Grocery,Bread,2.8,8.4,3.4,COMPRA NECESSÁRIA
+Corner Grocery,Carrots,3.17,9.51,4.51,COMPRA NECESSÁRIA
+Corner Grocery,Cereal,3.17,9.51,4.51,COMPRA NECESSÁRIA
+Corner Grocery,Cheese,3.4,10.2,5.2,COMPRA NECESSÁRIA
+Corner Grocery,Chicken Breast,3.0,9.0,4.0,COMPRA NECESSÁRIA
+Corner Grocery,Eggs,3.09,9.27,4.27,COMPRA NECESSÁRIA
+Corner Grocery,Ground Beef,3.29,9.87,4.87,COMPRA NECESSÁRIA
+Corner Grocery,Milk,2.75,8.25,3.25,COMPRA NECESSÁRIA
+Corner Grocery,Onions,3.0,9.0,4.0,COMPRA NECESSÁRIA
+Corner Grocery,Orange Juice,2.36,7.08,2.08,COMPRA NECESSÁRIA
+Corner Grocery,Pasta,2.75,8.25,3.25,COMPRA NECESSÁRIA
+Corner Grocery,Potatoes,2.78,8.34,3.34,COMPRA NECESSÁRIA
+Corner Grocery,Rice,4.11,12.33,7.33,COMPRA NECESSÁRIA
+Corner Grocery,Salmon,3.07,9.21,4.21,COMPRA NECESSÁRIA
+Corner Grocery,Tomatoes,2.38,7.14,2.14,COMPRA NECESSÁRIA
+Corner Grocery,Yogurt,2.83,8.49,3.49,COMPRA NECESSÁRIA
+FamilyFood Express,Apples,2.91,8.73,3.73,COMPRA NECESSÁRIA
+FamilyFood Express,Bananas,3.0,9.0,4.0,COMPRA NECESSÁRIA
+FamilyFood Express,Bread,2.8,8.4,3.4,COMPRA NECESSÁRIA
+FamilyFood Express,Carrots,3.83,11.49,6.49,COMPRA NECESSÁRIA
+FamilyFood Express,Cereal,2.57,7.71,2.71,COMPRA NECESSÁRIA
+FamilyFood Express,Cheese,3.73,11.19,6.19,COMPRA NECESSÁRIA
+FamilyFood Express,Chicken Breast,2.25,6.75,1.75,COMPRA NECESSÁRIA
+FamilyFood Express,Eggs,3.06,9.18,4.18,COMPRA NECESSÁRIA
+FamilyFood Express,Ground Beef,2.29,6.87,1.87,COMPRA NECESSÁRIA
+FamilyFood Express,Milk,2.29,6.87,1.87,COMPRA NECESSÁRIA
+FamilyFood Express,Onions,1.92,5.76,0.76,COMPRA NECESSÁRIA
+FamilyFood Express,Orange Juice,3.14,9.42,4.42,COMPRA NECESSÁRIA
+FamilyFood Express,Pasta,2.62,7.86,2.86,COMPRA NECESSÁRIA
+FamilyFood Express,Potatoes,3.22,9.66,4.66,COMPRA NECESSÁRIA
+FamilyFood Express,Rice,2.5,7.5,2.5,COMPRA NECESSÁRIA
+FamilyFood Express,Salmon,2.64,7.92,2.92,COMPRA NECESSÁRIA
+FamilyFood Express,Tomatoes,2.6,7.8,2.8,COMPRA NECESSÁRIA
+FamilyFood Express,Yogurt,3.0,9.0,4.0,COMPRA NECESSÁRIA
+FreshMart Downtown,Apples,3.23,9.69,4.69,COMPRA NECESSÁRIA
+FreshMart Downtown,Bananas,3.07,9.21,4.21,COMPRA NECESSÁRIA
+FreshMart Downtown,Bread,2.71,8.13,3.13,COMPRA NECESSÁRIA
+FreshMart Downtown,Carrots,2.12,6.36,1.36,COMPRA NECESSÁRIA
+FreshMart Downtown,Cereal,3.0,9.0,4.0,COMPRA NECESSÁRIA
+FreshMart Downtown,Cheese,3.18,9.54,4.54,COMPRA NECESSÁRIA
+FreshMart Downtown,Chicken Breast,3.23,9.69,4.69,COMPRA NECESSÁRIA
+FreshMart Downtown,Eggs,2.88,8.64,3.64,COMPRA NECESSÁRIA
+FreshMart Downtown,Ground Beef,2.38,7.14,2.14,COMPRA NECESSÁRIA
+FreshMart Downtown,Milk,2.27,6.81,1.81,COMPRA NECESSÁRIA
+FreshMart Downtown,Onions,2.89,8.67,3.67,COMPRA NECESSÁRIA
+FreshMart Downtown,Orange Juice,3.23,9.69,4.69,COMPRA NECESSÁRIA
+FreshMart Downtown,Pasta,3.88,11.64,6.64,COMPRA NECESSÁRIA
+FreshMart Downtown,Potatoes,2.23,6.69,1.69,COMPRA NECESSÁRIA
+FreshMart Downtown,Rice,3.38,10.14,5.14,COMPRA NECESSÁRIA
+FreshMart Downtown,Salmon,2.29,6.87,1.87,COMPRA NECESSÁRIA
+FreshMart Downtown,Tomatoes,3.2,9.6,4.6,COMPRA NECESSÁRIA
+FreshMart Downtown,Yogurt,2.33,6.99,1.99,COMPRA NECESSÁRIA
+GreenGrocer Plaza,Apples,3.0,9.0,4.0,COMPRA NECESSÁRIA
+GreenGrocer Plaza,Bananas,3.6,10.8,5.8,COMPRA NECESSÁRIA
+GreenGrocer Plaza,Bread,2.92,8.76,3.76,COMPRA NECESSÁRIA
+GreenGrocer Plaza,Carrots,2.36,7.08,2.08,COMPRA NECESSÁRIA
+GreenGrocer Plaza,Cereal,2.83,8.49,3.49,COMPRA NECESSÁRIA
+GreenGrocer Plaza,Cheese,3.25,9.75,4.75,COMPRA NECESSÁRIA
+GreenGrocer Plaza,Chicken Breast,3.13,9.39,4.39,COMPRA NECESSÁRIA
+GreenGrocer Plaza,Eggs,2.56,7.68,2.68,COMPRA NECESSÁRIA
+GreenGrocer Plaza,Ground Beef,3.15,9.45,4.45,COMPRA NECESSÁRIA
+GreenGrocer Plaza,Milk,2.92,8.76,3.76,COMPRA NECESSÁRIA
+GreenGrocer Plaza,Onions,2.73,8.19,3.19,COMPRA NECESSÁRIA
+GreenGrocer Plaza,Orange Juice,2.89,8.67,3.67,COMPRA NECESSÁRIA
+GreenGrocer Plaza,Pasta,3.11,9.33,4.33,COMPRA NECESSÁRIA
+GreenGrocer Plaza,Potatoes,3.39,10.17,5.17,COMPRA NECESSÁRIA
+GreenGrocer Plaza,Rice,3.5,10.5,5.5,COMPRA NECESSÁRIA
+GreenGrocer Plaza,Salmon,3.91,11.73,6.73,COMPRA NECESSÁRIA
+GreenGrocer Plaza,Tomatoes,2.62,7.86,2.86,COMPRA NECESSÁRIA
+GreenGrocer Plaza,Yogurt,3.25,9.75,4.75,COMPRA NECESSÁRIA
+MegaMart Westside,Apples,3.64,10.92,5.92,COMPRA NECESSÁRIA
+MegaMart Westside,Bananas,3.22,9.66,4.66,COMPRA NECESSÁRIA
+MegaMart Westside,Bread,2.19,6.57,1.57,COMPRA NECESSÁRIA
+MegaMart Westside,Carrots,2.89,8.67,3.67,COMPRA NECESSÁRIA
+MegaMart Westside,Cereal,3.17,9.51,4.51,COMPRA NECESSÁRIA
+MegaMart Westside,Cheese,2.3,6.9,1.9,COMPRA NECESSÁRIA
+MegaMart Westside,Chicken Breast,3.5,10.5,5.5,COMPRA NECESSÁRIA
+MegaMart Westside,Eggs,2.55,7.65,2.65,COMPRA NECESSÁRIA
+MegaMart Westside,Ground Beef,3.54,10.62,5.62,COMPRA NECESSÁRIA
+MegaMart Westside,Milk,1.89,5.67,0.67,COMPRA NECESSÁRIA
+MegaMart Westside,Onions,3.0,9.0,4.0,COMPRA NECESSÁRIA
+MegaMart Westside,Orange Juice,4.12,12.36,7.36,COMPRA NECESSÁRIA
+MegaMart Westside,Pasta,2.73,8.19,3.19,COMPRA NECESSÁRIA
+MegaMart Westside,Potatoes,3.46,10.38,5.38,COMPRA NECESSÁRIA
+MegaMart Westside,Rice,3.3,9.9,4.9,COMPRA NECESSÁRIA
+MegaMart Westside,Salmon,3.2,9.6,4.6,COMPRA NECESSÁRIA
+MegaMart Westside,Tomatoes,3.14,9.42,4.42,COMPRA NECESSÁRIA
+MegaMart Westside,Yogurt,3.75,11.25,6.25,COMPRA NECESSÁRIA
+QuickStop Market,Apples,3.62,10.86,5.86,COMPRA NECESSÁRIA
+QuickStop Market,Bananas,2.86,8.58,3.58,COMPRA NECESSÁRIA
+QuickStop Market,Bread,2.86,8.58,3.58,COMPRA NECESSÁRIA
+QuickStop Market,Carrots,3.1,9.3,4.3,COMPRA NECESSÁRIA
+QuickStop Market,Cereal,3.0,9.0,4.0,COMPRA NECESSÁRIA
+QuickStop Market,Cheese,3.2,9.6,4.6,COMPRA NECESSÁRIA
+QuickStop Market,Chicken Breast,3.2,9.6,4.6,COMPRA NECESSÁRIA
+QuickStop Market,Eggs,2.83,8.49,3.49,COMPRA NECESSÁRIA
+QuickStop Market,Ground Beef,3.0,9.0,4.0,COMPRA NECESSÁRIA
+QuickStop Market,Milk,2.45,7.35,2.35,COMPRA NECESSÁRIA
+QuickStop Market,Onions,2.86,8.58,3.58,COMPRA NECESSÁRIA
+QuickStop Market,Orange Juice,2.6,7.8,2.8,COMPRA NECESSÁRIA
+QuickStop Market,Pasta,3.36,10.08,5.08,COMPRA NECESSÁRIA
+QuickStop Market,Potatoes,3.25,9.75,4.75,COMPRA NECESSÁRIA
+QuickStop Market,Rice,3.0,9.0,4.0,COMPRA NECESSÁRIA
+QuickStop Market,Salmon,2.58,7.74,2.74,COMPRA NECESSÁRIA
+QuickStop Market,Tomatoes,2.83,8.49,3.49,COMPRA NECESSÁRIA
+QuickStop Market,Yogurt,3.5,10.5,5.5,COMPRA NECESSÁRIA
+SuperSave Central,Apples,3.0,9.0,4.0,COMPRA NECESSÁRIA
+SuperSave Central,Bananas,3.09,9.27,4.27,COMPRA NECESSÁRIA
+SuperSave Central,Bread,3.6,10.8,5.8,COMPRA NECESSÁRIA
+SuperSave Central,Carrots,3.47,10.41,5.41,COMPRA NECESSÁRIA
+SuperSave Central,Cereal,2.88,8.64,3.64,COMPRA NECESSÁRIA
+SuperSave Central,Cheese,3.09,9.27,4.27,COMPRA NECESSÁRIA
+SuperSave Central,Chicken Breast,2.86,8.58,3.58,COMPRA NECESSÁRIA
+SuperSave Central,Eggs,3.17,9.51,4.51,COMPRA NECESSÁRIA
+SuperSave Central,Ground Beef,3.0,9.0,4.0,COMPRA NECESSÁRIA
+SuperSave Central,Milk,2.7,8.1,3.1,COMPRA NECESSÁRIA
+SuperSave Central,Onions,2.53,7.59,2.59,COMPRA NECESSÁRIA
+SuperSave Central,Orange Juice,2.5,7.5,2.5,COMPRA NECESSÁRIA
+SuperSave Central,Pasta,2.8,8.4,3.4,COMPRA NECESSÁRIA
+SuperSave Central,Potatoes,2.8,8.4,3.4,COMPRA NECESSÁRIA
+SuperSave Central,Rice,2.88,8.64,3.64,COMPRA NECESSÁRIA
+SuperSave Central,Salmon,3.0,9.0,4.0,COMPRA NECESSÁRIA
+SuperSave Central,Tomatoes,3.5,10.5,5.5,COMPRA NECESSÁRIA
+SuperSave Central,Yogurt,3.22,9.66,4.66,COMPRA NECESSÁRIA
+ValuePlus Market,Apples,2.55,7.65,2.65,COMPRA NECESSÁRIA
+ValuePlus Market,Bananas,2.58,7.74,2.74,COMPRA NECESSÁRIA
+ValuePlus Market,Bread,3.73,11.19,6.19,COMPRA NECESSÁRIA
+ValuePlus Market,Carrots,2.91,8.73,3.73,COMPRA NECESSÁRIA
+ValuePlus Market,Cereal,3.0,9.0,4.0,COMPRA NECESSÁRIA
+ValuePlus Market,Cheese,2.45,7.35,2.35,COMPRA NECESSÁRIA
+ValuePlus Market,Chicken Breast,2.73,8.19,3.19,COMPRA NECESSÁRIA
+ValuePlus Market,Eggs,2.82,8.46,3.46,COMPRA NECESSÁRIA
+ValuePlus Market,Ground Beef,2.83,8.49,3.49,COMPRA NECESSÁRIA
+ValuePlus Market,Milk,2.83,8.49,3.49,COMPRA NECESSÁRIA
+ValuePlus Market,Onions,2.64,7.92,2.92,COMPRA NECESSÁRIA
+ValuePlus Market,Orange Juice,3.45,10.35,5.35,COMPRA NECESSÁRIA
+ValuePlus Market,Pasta,3.12,9.36,4.36,COMPRA NECESSÁRIA
+ValuePlus Market,Potatoes,2.89,8.67,3.67,COMPRA NECESSÁRIA
+ValuePlus Market,Rice,2.8,8.4,3.4,COMPRA NECESSÁRIA
+ValuePlus Market,Salmon,3.0,9.0,4.0,COMPRA NECESSÁRIA
+ValuePlus Market,Tomatoes,3.0,9.0,4.0,COMPRA NECESSÁRIA
+ValuePlus Market,Yogurt,2.94,8.82,3.82,COMPRA NECESSÁRIA
